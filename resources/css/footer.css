@@ -1,0 +1,26 @@
+.footers {
+    background-color: #E8E9EC;
+    background-image: linear-gradient(180deg, #E8E9EC 100%, #F8F9FE 100%);
+    background-size: cover;
+    color: #252525;
+}
+
+.hr-footers {
+    background-color: #252525;
+    width: 60px;
+}
+
+.hr-footers-divider {
+    background-color: #252525;
+    width: 100%;
+}
+
+.a-link {
+    color: #252525;
+}
+
+.a-link:hover {
+    color: black;
+    background-color: #252525;
+    text-decoration: none;
+}
